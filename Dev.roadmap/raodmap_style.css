@@ -1,0 +1,190 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+body h1 {
+    text-align: center;
+}
+
+
+.main {
+    width: 90%;
+    margin: 50px 5%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Frontend {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 33%;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    margin-top: 0px;
+}
+
+.Frontend img {
+    width: 300px;
+
+}
+
+.Frontend p {
+    color: rgba(0, 0, 0, 0.6);
+    display: block;
+    line-height: 180%;
+    font-size: 14px;
+}
+
+.Frontend a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 18px;
+    font-weight: 700;
+    width: 45%;
+    height: 55px;
+    line-height: 55px;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    display: block;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+.Backend {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 33%;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
+.Backend a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 18px;
+    font-weight: 700;
+    width: 45%;
+    height: 55px;
+    line-height: 55px;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    display: block;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+
+
+.Backend img {
+    width: 300px;
+    height: 150px;
+}
+
+.Backend p {
+    color: rgba(0, 0, 0, 0.6);
+    display: block;
+    line-height: 180%;
+    font-size: 14px;
+
+}
+
+.FullStack {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 33%;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.FullStack img {
+    width: 300px;
+
+}
+
+.FullStack p {
+    color: rgba(0, 0, 0, 0.6);
+    display: block;
+    line-height: 180%;
+    font-size: 14px;
+}
+
+.FullStack a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 18px;
+    font-weight: 700;
+    width: 45%;
+    height: 55px;
+    line-height: 55px;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    display: block;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+.Register p {
+    display: block;
+    text-align: center;
+    line-height: 180%;
+
+}
+
+.Register a {
+    text-align: center;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 18px;
+    font-weight: 700;
+    width: 45%;
+    height: 55px;
+    line-height: 55px;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    display: block;
+    border-radius: 5px;
+    margin: 20px auto;
+
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer div {
+    margin-bottom: 15px;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
